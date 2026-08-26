@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;C+Developer;Java+Developer;Python+Developer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Always+Eager+To+Learn+More;C+Developer;Python+Developer;Learning+Java;" />
 </p>
 
 ## About Me
