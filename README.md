@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamT-S&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamT-S&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamT-S&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamT-S&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamT-S&theme=tokyonight)
 
