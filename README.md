@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=180&section=header&text=Adam%20T-S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:10b981&height=180&section=header&text=Adam%20T-S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 <!-- Typing Intro -->
 <p align="center">
@@ -35,6 +35,6 @@ Here are the core languages I work with:
 
 <!-- Footer Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4c1d95&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:065f46&height=120&section=footer" />
 </p>
 
