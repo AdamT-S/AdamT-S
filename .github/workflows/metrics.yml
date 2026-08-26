@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Core modules
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
           # Additional modules
           plugin_languages: yes
