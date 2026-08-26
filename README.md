@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Adam's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=AdamT-S&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=AdamT-S&layout=compact&theme=tokyonight)
+![GitHub Metrics](./metrics.svg)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamT-S&theme=tokyonight)
 
