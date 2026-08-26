@@ -7,10 +7,10 @@
 </p>
 
 ## About Me
-⌨️I am a junior software engineer that works in C and Python ⌨️ 
-🏢I primarily develop in C professionally and develop scripts in Python.🏢
-☕I enjoy developing in Java and am trying to develop my skills in it☕
-My aspirations as a software engineer are to become full stack engineer
+<p>⌨️I am a junior software engineer that works in C and Python ⌨️ </p>
+<p>🏢I primarily develop in C professionally and develop scripts in Python.🏢</p>
+<p>☕I enjoy developing in Java and am trying to develop my skills in it☕</p>
+<p>My aspirations as a software engineer are to become full stack engineer</p>
 
 ## 🛠️ Tech Stack
 Here are the core languages I work with:
