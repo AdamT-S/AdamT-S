@@ -1,6 +1,7 @@
 <!-- Header Banner -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0ea5e9&height=180&section=header&text=Adam%20T-S&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
+</p>
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Always+Eager+To+Learn+More;C+Developer;Python+Developer;Learning+Java;" />
@@ -30,6 +31,7 @@ Here are the core languages I work with:
 </picture>
 
 <!-- Footer Banner -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4c1d95&height=120&section=footer" />
-
+</p>
 
