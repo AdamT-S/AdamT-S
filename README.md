@@ -21,9 +21,8 @@ Here are the core languages I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## 📈 GitHub Streak
-<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamT-S&theme=tokyonight)
-</p>
+
 
  ## 🐍 Contributions
 <p align="center">
