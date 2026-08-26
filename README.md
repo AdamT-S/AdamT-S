@@ -20,11 +20,13 @@ Here are the core languages I work with:
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+<p align="center">
 ## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamT-S&theme=tokyonight)
+</p>
 
-## 🐍 Contribution Snake
 <p align="center">
+  ## 🐍 Contributions
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdamT-S/AdamT-S/gh-pages/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdamT-S/AdamT-S/gh-pages/github-contribution-grid-snake.svg" />
