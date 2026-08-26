@@ -6,9 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;C+Developer;Java+Developer;Python+Developer;Always+Learning+Something+New" />
 </p>
 
-## 👋 About Me
-I'm a junior software engineer focused on building clean, reliable, and user‑friendly software.  
-I enjoy solving real problems with code, learning new technologies, and improving a little every day.
+## About Me
+⌨️I am a junior software engineer that works in C and Python ⌨️ 
+🏢I primarily develop in C professionally and develop scripts in Python.🏢
+☕I enjoy developing in Java and am trying to develop my skills in it☕
+My aspirations as a software engineer are to become full stack engineer
 
 ## 🛠️ Tech Stack
 Here are the core languages I work with:
