@@ -10,14 +10,14 @@
 ## About Me
 <p>⌨️I am a junior software engineer that works in C and Python ⌨️ </p>
 <p>🏢I primarily develop in C professionally and develop scripts in Python.🏢</p>
-<p>☕I enjoy developing in Java and am trying to develop my skills in it☕</p>
+<p>☕I enjoy developing in C# and am trying to develop my skills in it☕</p>
 <p>My aspirations as a software engineer are to become full stack engineer</p>
 
 ## 🛠️ Tech Stack
 Here are the core languages I work with:
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C#-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## 📈 GitHub Streak
