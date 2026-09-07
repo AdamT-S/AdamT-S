@@ -4,7 +4,7 @@
 </p>
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Always+Eager+To+Learn+More;C+Developer;Python+Developer;Learning+Java;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Always+Eager+To+Learn+More;C+Developer;Python+Developer;Learning+C#;" />
 </p>
 
 ## About Me
